@@ -30,7 +30,7 @@ ipaplatform==4.2.0
 ipapython==4.2.0
 IPy==0.75
 javapackages==1.0.0
-Jinja2==2.8
+Jinja2==2.11.3
 jsonpointer==1.9
 kerberos==1.1
 kitchen==1.1.1
