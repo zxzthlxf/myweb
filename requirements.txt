@@ -74,7 +74,7 @@ pytz===2012d
 pyudev==0.15
 pyusb==1.0.0b1
 pyxattr==0.5.1
-PyYAML==3.10
+PyYAML==5.4
 qrcode==5.0.1
 rtslib-fb==2.1.57
 seobject==0.1
