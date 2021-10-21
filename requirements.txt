@@ -1,5 +1,5 @@
 ansible==2.3.1.0
-Babel==0.9.6
+Babel==2.9.1
 backports.ssl-match-hostname==3.4.0.2
 Beaker==1.5.4
 blivet==0.61.15.37
