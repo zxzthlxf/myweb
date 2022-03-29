@@ -41,7 +41,7 @@ Mako==0.8.1
 MarkupSafe==0.11
 netaddr==0.7.5
 ntplib==0.3.2
-paramiko==1.16.1
+paramiko==2.10.1
 Paste==1.7.5.1
 pcp==1.0
 perf==0.1
